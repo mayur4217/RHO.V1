@@ -246,7 +246,7 @@ const BlogDetail = () => {
         keywords={`${post.category.toLowerCase()}, Realgameappstips india, online rummy, Realgameappsguide`}
       />
 
-      <Suspense fallback={null}>
+      <Suspense fallback={null}> 
         <Header />
       </Suspense>
 
