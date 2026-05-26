@@ -178,6 +178,34 @@ export const rummyApps: RummyApp[] = [
     established: "2012",
     downloadUrl: "https://chrstm.com/aw/quabd6?f=w&p=wa&l=en&tp=m147&rtk=TVHoXwO8Rg%2BUcq%2FB8RXATEU4UwOr7KYEwWFoE6673NfMxeLT5E8JWPmsWeKdoUri7uqTHQg0euekdy1R1nh60FhpQEyEj0%2FdmiqDtSLffG7IBS8PsQOQamDTeH1B11nTTMvZcTGXx2HsN5FZUy4RdCoRc5Nre5TVmTtFVNe04k9BDgj4azTThfsDLRD%2FzFed&scenes=&scene=",
   },
+
+
+
+
+    {
+    id: 8,
+    slug: "rummy-circle",
+    name: "23nano",
+    image: "javascript:redirect1()",
+    logo: "href=./resources/favicon.png",
+    tagline: "Trusted by 5Cr+ Players",
+    rating: 4.6,
+    reviews: "2.1M",
+    bonus: "₹2,000",
+    minWithdraw: "₹100",
+    category: ["top", "cash"],
+    color: "from-emerald-500 to-teal-500",
+    description: "Trusted Realgameappsplatform with huge player base.",
+    pros: ["Trusted brand", "Large community", "Secure gameplay"],
+    cons: ["Lower bonus"],
+    paymentMethods: ["UPI", "Paytm", "Net Banking"],
+    platforms: ["Android", "iOS", "Web"],
+    gameTypes: ["Points", "Pool", "Deals"],
+    maxBonus: "₹2,000",
+    referralBonus: "₹500",
+    established: "2012",
+    downloadUrl: "https://chrstm.com/aw/quabd6?f=w&p=wa&l=en&tp=m147&rtk=TVHoXwO8Rg%2BUcq%2FB8RXATEU4UwOr7KYEwWFoE6673NfMxeLT5E8JWPmsWeKdoUri7uqTHQg0euekdy1R1nh60FhpQEyEj0%2FdmiqDtSLffG7IBS8PsQOQamDTeH1B11nTTMvZcTGXx2HsN5FZUy4RdCoRc5Nre5TVmTtFVNe04k9BDgj4azTThfsDLRD%2FzFed&scenes=&scene=",
+  },
 ];
 
 export  const categories = [
